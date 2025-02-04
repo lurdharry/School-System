@@ -1,4 +1,4 @@
-package com.lurdharry.springDemo.School;
+package com.lurdharry.School_System.School;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

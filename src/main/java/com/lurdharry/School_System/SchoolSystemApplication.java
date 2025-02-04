@@ -1,13 +1,13 @@
-package com.lurdharry.springDemo;
+package com.lurdharry.School_System;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDemoApplication {
+public class SchoolSystemApplication {
 
 	public static void main(String[] args) {
-	  SpringApplication.run(SpringDemoApplication.class);
+	  SpringApplication.run(SchoolSystemApplication.class);
 	}
 
 }

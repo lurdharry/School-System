@@ -1,7 +1,7 @@
-package com.lurdharry.springDemo.School;
+package com.lurdharry.School_System.School;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
-import com.lurdharry.springDemo.Student.Student;
+import com.lurdharry.School_System.Student.Student;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;

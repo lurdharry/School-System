@@ -1,4 +1,4 @@
-package com.lurdharry.springDemo.Student;
+package com.lurdharry.School_System.Student;
 
 public record StudentResponseDto(
         String firstName,

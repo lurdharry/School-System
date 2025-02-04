@@ -1,10 +1,10 @@
-package com.lurdharry.springDemo;
+package com.lurdharry.School_System;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDemoApplicationTests {
+class SchoolSystemApplicationTests {
 
 	@Test
 	void contextLoads() {

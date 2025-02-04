@@ -1,6 +1,6 @@
-package com.lurdharry.springDemo.StudentProfile;
+package com.lurdharry.School_System.StudentProfile;
 
-import com.lurdharry.springDemo.Student.Student;
+import com.lurdharry.School_System.Student.Student;
 import jakarta.persistence.*;
 
 @Entity

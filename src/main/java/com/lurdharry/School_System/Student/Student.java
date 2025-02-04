@@ -1,8 +1,8 @@
-package com.lurdharry.springDemo.Student;
+package com.lurdharry.School_System.Student;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.lurdharry.springDemo.School.School;
-import com.lurdharry.springDemo.StudentProfile.StudentProfile;
+import com.lurdharry.School_System.School.School;
+import com.lurdharry.School_System.StudentProfile.StudentProfile;
 import jakarta.persistence.*;
 
 @Entity

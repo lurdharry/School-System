@@ -1,6 +1,6 @@
-package com.lurdharry.springDemo.Student;
+package com.lurdharry.School_System.Student;
 
-import com.lurdharry.springDemo.School.School;
+import com.lurdharry.School_System.School.School;
 import org.springframework.stereotype.Service;
 
 @Service

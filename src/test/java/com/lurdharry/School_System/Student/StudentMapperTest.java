@@ -1,4 +1,4 @@
-package com.lurdharry.springDemo.Student;
+package com.lurdharry.School_System.Student;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

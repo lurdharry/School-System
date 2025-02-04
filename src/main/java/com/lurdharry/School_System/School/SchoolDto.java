@@ -1,4 +1,4 @@
-package com.lurdharry.springDemo.School;
+package com.lurdharry.School_System.School;
 
 public record SchoolDto(
         String name
